@@ -6,8 +6,6 @@
 ##### Activity: Chapter 3 assignment
 #####  Due date: October 13, 2023
 
-## Name: Abdirahman Andisalan mohamed
-## ID:C120487
 
 
 1. Write a program that compares three integer numbers then specifies and prints the greatest and
